@@ -1,0 +1,8 @@
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\bin\Debug\6.ZigzagConversion.exe.config
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\bin\Debug\6.ZigzagConversion.exe
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\bin\Debug\6.ZigzagConversion.pdb
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\obj\Debug\6.ZigzagConversion.csproj.AssemblyReference.cache
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\obj\Debug\6.ZigzagConversion.csproj.SuggestedBindingRedirects.cache
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\obj\Debug\6.ZigzagConversion.csproj.CoreCompileInputs.cache
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\obj\Debug\6.ZigzagConversion.exe
+F:\_MyProject\Leetcode-CSharp\6.ZigzagConversion\obj\Debug\6.ZigzagConversion.pdb

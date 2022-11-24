@@ -1,0 +1,8 @@
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\bin\Debug\1.TwoSum.exe.config
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\bin\Debug\1.TwoSum.exe
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\bin\Debug\1.TwoSum.pdb
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\obj\Debug\1.TwoSum.csproj.AssemblyReference.cache
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\obj\Debug\1.TwoSum.csproj.SuggestedBindingRedirects.cache
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\obj\Debug\1.TwoSum.csproj.CoreCompileInputs.cache
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\obj\Debug\1.TwoSum.exe
+F:\_MyProject\Leetcode-CSharp\1.TwoSum\obj\Debug\1.TwoSum.pdb
